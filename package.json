@@ -1,0 +1,30 @@
+{
+  "name": "dynamodb-https-proxy",
+  "version": "0.1.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"From the author: There are no tests for this package\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ayanray/dynamodb-https-proxy.git"
+  },
+  "keywords": [
+    "Express",
+    "4",
+    "SSL",
+    "HTTPS",
+    "TLS/SSL",
+    "DynamoDB",
+    "dynamodb-local"
+  ],
+  "author": "Ayan Ray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayanray/dynamodb-https-proxy/issues"
+  },
+  "dependencies": {
+    "express": ">=4.0.0"
+  }
+}
